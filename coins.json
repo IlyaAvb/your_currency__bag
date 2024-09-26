@@ -1,0 +1,10 @@
+{
+    "btc": "bitcoin",
+    "eth": "ethereum",
+    "sol": "solana",
+    "cati": "catizen",
+    "arb": "arbitrum",
+    "apt": "aptos",
+    "ltc": "litecoin",
+    "xrp": "ripple"
+}
